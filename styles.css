@@ -8,8 +8,9 @@ body{
     margin-right: 9.4VW;
 }
 header{
-    background-color: rgb(26, 65, 156);
+    background-color: rgb(24, 58, 137);
     color: white;
+    font-family: 'Poppins', sans-serif;
 }
 main{
     background-color: white;
